@@ -1,4 +1,4 @@
-# GLM-A-Study-of-Factors-Affecting-Extramarital-Sex
+# Generalized-Linear-Model-Projects-in-R
 
 This project implemented Generalized Lienar Model using R, to solve two questions: 
 1. What are the factors influencing the chance that an individual has an affair?

@@ -1,8 +1,9 @@
 # Generalized-Linear-Model-Projects-in-R
 
-This project implemented Generalized Lienar Model using R, to solve two questions: 
+This project implemented Generalized Lienar Model using R, produced statistical reports, to solve two questions: 
 1. What are the factors influencing the chance that an individual has an affair?
 2. What are the factors affecting smoking rate among American teenagers?
+
 
 For the first question: The research question of interest concerns the effect of having children on the chances that men and women
 have affairs. It is hypothesized that becoming a mother will make a woman less likely to have extramarital
